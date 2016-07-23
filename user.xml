@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-16"?>
+<UserSettingsXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AuthType>Google</AuthType> <!-- Google/Ptc -->
+  <DefaultLatitude>38.02033965176977</DefaultLatitude> <!-- Default Amsterdam Central Station -->
+  <DefaultLongitude>23.73171329498291</DefaultLongitude> <!-- Default Amsterdam Central Station  1/Xx88tNmlXS6YWAioC70EJSpk_6FeZR_WNJ8whvxlEGI -->
+  <GoogleRefreshToken>1/Xx88tNmlXS6YWAioC70EJSpk_6FeZR_WNJ8whvxlEGI</GoogleRefreshToken>
+  <PtcPassword>2102019773</PtcPassword>
+  <PtcUsername>theonipponotaku3</PtcUsername>
+  <EvolveAllGivenPokemons>true</EvolveAllGivenPokemons>
+  <TransferType>leaveStrongest</TransferType> <!-- none/cp/leaveStrongest/duplicate/all -->
+  <TransferCPThreshold>300</TransferCPThreshold> <!-- Transfer pokemon with CP less than this value if cp transfer type is selected -->
+  <DoNotTransfer> <!-- These will not be transferred even when below the CP threshold -->
+    <PokemonId>Magikarp</PokemonId>
+    <PokemonId>Eevee</PokemonId>
+	<PokemonId>Arcanine</PokemonId>
+	<PokemonId>Flareon</PokemonId>
+	<PokemonId>Snorlax</PokemonId>
+  </DoNotTransfer>
+  <UnwantedPokemonTypes>
+    <PokemonId>Pidgey</PokemonId>
+    <PokemonId>Rattata</PokemonId>
+    <PokemonId>Weedle</PokemonId>
+    <PokemonId>Zubat</PokemonId>
+    <PokemonId>Caterpie</PokemonId>
+    <PokemonId>Pidgeotto</PokemonId>
+    <PokemonId>NidoranFemale</PokemonId>
+    <PokemonId>Paras</PokemonId>
+    <PokemonId>Venonat</PokemonId>
+    <PokemonId>Psyduck</PokemonId>
+    <PokemonId>Poliwag</PokemonId>
+    <PokemonId>Slowpoke</PokemonId>
+    <PokemonId>Drowzee</PokemonId>
+    <PokemonId>Gastly</PokemonId>
+    <PokemonId>Goldeen</PokemonId>
+    <PokemonId>Staryu</PokemonId>
+    <PokemonId>Magikarp</PokemonId>
+    <PokemonId>Clefairy</PokemonId>
+    <PokemonId>Eevee</PokemonId>
+    <PokemonId>Tentacool</PokemonId>
+    <PokemonId>Dratini</PokemonId>
+    <PokemonId>Ekans</PokemonId>
+    <PokemonId>Jynx</PokemonId>
+    <PokemonId>Lickitung</PokemonId>
+    <PokemonId>Spearow</PokemonId>
+    <PokemonId>NidoranFemale</PokemonId>
+    <PokemonId>NidoranMale</PokemonId>
+  </UnwantedPokemonTypes>
+  <PokestopDelay>15000</PokestopDelay>
+</UserSettingsXml>
